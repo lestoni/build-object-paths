@@ -1,0 +1,29 @@
+{
+  "name": "build-object-paths",
+  "version": "1.0.0",
+  "description": "Build object keys paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lestoni/build-object-paths.git"
+  },
+  "keywords": [
+    "object",
+    "path"
+  ],
+  "author": "Tony Mutai <tonimut7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/build-object-paths/issues"
+  },
+  "homepage": "https://github.com/lestoni/build-object-paths",
+  "dependencies": {
+    "lodash": "~3.7.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.4"
+  }
+}
