@@ -3,6 +3,7 @@
 small utility to construct object keys paths.
 
 [![Build Status](https://travis-ci.org/lestoni/build-object-paths.svg?branch=1.0.0)](https://travis-ci.org/lestoni/build-object-paths)
+[![NPM](https://nodei.co/npm/build-object-paths.png?downloads=true&stars=true)](https://nodei.co/npm/build-object-paths/)
 
 
 ## install
