@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/lestoni/build-object-paths",
   "dependencies": {
-    "lodash": "~3.7.0"
+    "lodash": "~4.17.20"
   },
   "devDependencies": {
     "mocha": "~2.2.4"
