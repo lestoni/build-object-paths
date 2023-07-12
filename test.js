@@ -1,8 +1,8 @@
-var assert = require('assert');
-var objPaths = require('./');
+const assert = require('assert');
+const objPaths = require('./');
 
 describe('build-object-paths', function(){
-  var data = {
+  const data = {
     level1: {
       level2: 2,
       level3: {
@@ -15,7 +15,7 @@ describe('build-object-paths', function(){
 
   it('should return an array of paths', function() {
 
-    var paths = objPaths(data);
+    const paths = objPaths(data);
 
     assert.ok(Array.isArray(paths));
     assert.notEqual(paths.length, 0);
