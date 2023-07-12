@@ -1,6 +1,6 @@
-var objPaths = require('./');
+const objPaths = require('./');
 
-var data = {
+const data = {
   level1: {
     level2: 2,
     level3: {
